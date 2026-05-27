@@ -7,6 +7,12 @@ import java.util.Set;
 import java.util.TreeMap;
 
 public class MapInterface {
+	
+	
+	public void hello()
+	{
+		
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
